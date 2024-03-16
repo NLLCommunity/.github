@@ -11,7 +11,7 @@ This GitHub organization is a place for us to collaborate on projects that power
 
 ## Projects
 
-- [Website](NLLCommunity/website) - NLL's website.
-- [Norsk-bott](NLLCommunity/norsk-bott) - A Discord bot for the NLL Discord server.
+- [Website](https://github.com/NLLCommunity/nllcommunity.github.io) - NLL's website.
+- [Norsk-bott](https://github.com/NLLCommunity/discord-norsk-bott) - A Discord bot for the NLL Discord server.
 
 > We also have several other projects on [GitLab](https://gitlab.com/NorwegianLanguageLearning).
